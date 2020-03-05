@@ -1,0 +1,17 @@
+.hotelList {
+	padding: 20px;
+    /*border-bottom: solid 2px;*/
+}
+.hotelList .partition {
+	border-top: solid #459dfb;
+	padding-top: 10px;
+}
+.textCenter {
+	text-align: center;
+}
+.elementCenter {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;	
+}
+	
